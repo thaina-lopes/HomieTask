@@ -1,5 +1,3 @@
-# HomieTask
-
 # 🏠 **HomieTask PWA**  
 *Aplicativo gamificado para gerenciar tarefas domésticas com ranking familiar!*  
 
