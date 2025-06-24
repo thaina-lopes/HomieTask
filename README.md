@@ -18,6 +18,6 @@
 ## **🚀 Como Executar**  
 ```bash
 git clone [seu-repositorio]
-cd housetasks-pwa
+cd homietask
 npm install
 npm run dev
