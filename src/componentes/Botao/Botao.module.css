@@ -1,0 +1,29 @@
+/* Estilo BASE para todos os botões */
+.botao {
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: none;
+  font-size: 1rem;
+}
+
+/* Variantes de cor */
+.primario {
+  background-color: #4f46e5; /* Roxo HomieTask */
+  color: white;
+}
+
+.primario:hover {
+  background-color: #4338ca; /* Roxo mais escuro */
+}
+
+.secundario {
+  background-color: #e0e7ff; /* Roxo claro */
+  color: #4f46e5;
+}
+
+.secundario:hover {
+  background-color: #c7d2fe;
+}
